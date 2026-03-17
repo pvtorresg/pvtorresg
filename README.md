@@ -1,18 +1,25 @@
-# Paulo Torres — MLOps Engineer [@ Yape](https://github.com/yaperos)
+# Paulo Torres
+**MLOps Engineer [@ Yape](https://github.com/yaperos)**
 
-MLOps Engineer building and scaling ML systems in production.
+MLOps / Backend engineer building scalable ML systems and production-grade services.
 
-- Databricks data applications  
-- ML model deployment & serving  
-- Microservices architecture  
+## Focus
+- MLOps & large-scale deployment  
+- Microservices & distributed systems  
+- Observability & reliability  
+- Data Engineering (Spark)  
 
+## Stack
 ![Python](https://img.shields.io/badge/Python-grey?style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-grey?style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-grey?style=flat)
+![NestJS](https://img.shields.io/badge/NestJS-grey?style=flat)
 ![AWS](https://img.shields.io/badge/AWS-grey?style=flat)
 ![Databricks](https://img.shields.io/badge/Databricks-grey?style=flat)
-![Spark](https://img.shields.io/badge/Spark-grey?style=flat)
 
-**Links**  
+## Interests
+Open source · Software architecture · High-performance systems · Applied AI
+
+## Links
 LinkedIn: https://pe.linkedin.com/in/paulotorresg  
-GitHub: https://github.com/unrecano  
+GitHub: https://github.com/unrecano
